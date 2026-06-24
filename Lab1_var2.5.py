@@ -10,3 +10,4 @@ elif a == b or b == c or a == c:
     print(2)  # рівнобедрений
 else:
     print(3)  # різносторонній
+input()
